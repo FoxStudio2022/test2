@@ -1,0 +1,62 @@
+#ciklus {
+  border-color: black;
+  border-width: 2px;
+  padding: 10px;
+  margin-right: auto;
+  text-align: center;
+  font-size: 80%;
+  width: 60%;
+  font-weight: 1px;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  margin-left: auto;
+  font-style: oblique;
+  background-color: #666666;
+}
+#valogat {
+  border: 1px solid black;
+  margin: 10px;
+  float: right;
+  width: 300px;
+}
+body {
+  margin-right: 10%;
+  margin-left: 10%;
+  color: #112255;
+  background-image: url("hatterkep.png");
+}
+#rec {
+  width: 80%;
+}
+p {
+  text-align: justify;
+}
+p:first-letter {
+  margin-left: 20px;
+}
+.kiemel {
+  color: #990000;
+  font-weight: bold;
+  text-align: center;
+}
+.vonal {
+  color: #990000;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  height: 5px;
+  background-color: #990000;
+}
+h1, h2 {
+  line-height: 45px;
+  font-weight: bold;
+  color: #333333;
+}
+h1 {
+  text-align: center;
+}
+li{
+  list-style-image: url("jel.png");
+}
